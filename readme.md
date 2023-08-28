@@ -52,7 +52,7 @@ Once the map is drawn, we prompt the user to Name a State and start the game:
 
 ![US States Game User Prompt](https://github-readme.s3.us-west-1.amazonaws.com/USStatesGame-prompt.png)
 
-The game continues until the user either guesses all 50 states correctly, or types exit into the prompt.
+The game continues until the user either guesses all 50 states correctly, or types `exit` into the prompt.
 
 If the user guesses all 50 states correctly, they are presented with a celebration image:
 
